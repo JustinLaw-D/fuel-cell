@@ -1,0 +1,6 @@
+1. Plug in Arduino
+2. Run initial_processing.py (sometimes VScode tries to run regular python fist)
+3. Hit enter to start and stop data recording, backspace to shut down the program. Always stop recording data before
+   shutting down the program 
+4. To switch to data collection without the laptop, flip both switches on the circuit. Flip them off to shut off data collection
+5. The python program can also be run from the command line, file path is Documents\Arduino\FuelCellArduino
