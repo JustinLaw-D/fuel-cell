@@ -1,0 +1,3 @@
+[submodule "modded-libraries"]
+	path = modded-libraries
+	url = https://github.com/JustinLaw-D/modded-libraries
