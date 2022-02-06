@@ -245,7 +245,7 @@ void write_SD() {
   write_Time_SD();
   write_Gyroscope_SD();
   write_Cell_SD(current_reading.cell_read);
-  // filePath.print(NEWLINE);
+  filePath.print(NEWLINE);
 }
 
 // type -> ()
